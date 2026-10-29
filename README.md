@@ -12,6 +12,19 @@ görüntüleme için **pdfium kullanılmaz**; sayfalar saf Rust kütüphanesi
 
 ---
 
+## Ekran Görüntüleri
+
+|  |  |
+| --- | --- |
+| <img src="assets/Screenshot_1.png" alt="PDF Toolbox ekran görüntüsü 1" width="100%"> | <img src="assets/Screenshot_2.png" alt="PDF Toolbox ekran görüntüsü 2" width="100%"> |
+| <img src="assets/Screenshot_3.png" alt="PDF Toolbox ekran görüntüsü 3" width="100%"> | <img src="assets/Screenshot_4.png" alt="PDF Toolbox ekran görüntüsü 4" width="100%"> |
+| <img src="assets/Screenshot_5.png" alt="PDF Toolbox ekran görüntüsü 5" width="100%"> | <img src="assets/Screenshot_6.png" alt="PDF Toolbox ekran görüntüsü 6" width="100%"> |
+| <img src="assets/Screenshot_7.png" alt="PDF Toolbox ekran görüntüsü 7" width="100%"> | <img src="assets/Screenshot_8.png" alt="PDF Toolbox ekran görüntüsü 8" width="100%"> |
+| <img src="assets/Screenshot_9.png" alt="PDF Toolbox ekran görüntüsü 9" width="100%"> | <img src="assets/Screenshot_10.png" alt="PDF Toolbox ekran görüntüsü 10" width="100%"> |
+| <img src="assets/Screenshot_11.png" alt="PDF Toolbox ekran görüntüsü 11" width="100%"> |  |
+
+---
+
 ## Özellikler
 
 | Sekme | Yapabildikleri |
